@@ -1,0 +1,56 @@
+{
+  "GER": {
+    "name": "Germany",
+    "color": [
+      128,
+      128,
+      128
+    ],
+    "capital": 1,
+    "provinces": [
+      1,
+      2,
+      3
+    ],
+    "money": 2000.0,
+    "manpower": 20000,
+    "military_factories": 15,
+    "civilian_factories": 20
+  },
+  "FRA": {
+    "name": "France",
+    "color": [
+      0,
+      0,
+      200
+    ],
+    "capital": 4,
+    "provinces": [
+      4,
+      5,
+      6
+    ],
+    "money": 1800.0,
+    "manpower": 18000,
+    "military_factories": 12,
+    "civilian_factories": 18
+  },
+  "GBR": {
+    "name": "United Kingdom",
+    "color": [
+      200,
+      0,
+      0
+    ],
+    "capital": 7,
+    "provinces": [
+      7,
+      8,
+      9
+    ],
+    "money": 2500.0,
+    "manpower": 15000,
+    "military_factories": 18,
+    "civilian_factories": 25
+  }
+}

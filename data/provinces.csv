@@ -1,0 +1,10 @@
+id,name,r,g,b,terrain,development,population,coastal
+1,Berlin,255,0,0,plains,5,5000,false
+2,Munich,254,0,0,hills,4,4000,false
+3,Hamburg,253,0,0,plains,3,3000,true
+4,Paris,0,255,0,plains,5,5000,false
+5,Lyon,0,254,0,hills,3,3000,false
+6,Marseille,0,253,0,plains,3,3000,true
+7,London,0,0,255,plains,5,5000,false
+8,Manchester,0,0,254,plains,4,4000,false
+9,Liverpool,0,0,253,plains,3,3000,true

@@ -1,0 +1,35 @@
+"""
+Game constants and configuration
+"""
+
+# Window settings
+SCREEN_WIDTH = 1600
+SCREEN_HEIGHT = 900
+SCREEN_TITLE = "Grand Strategy Game"
+
+# Game settings
+UPDATES_PER_SECOND = 60
+GAME_SPEED_NORMAL = 1.0
+GAME_SPEED_FAST = 2.0
+GAME_SPEED_VERY_FAST = 5.0
+
+# Camera settings
+CAMERA_SPEED = 10
+ZOOM_MIN = 0.5
+ZOOM_MAX = 10.0
+ZOOM_SPEED = 0.1
+
+# Map settings
+MAP_WIDTH = 3200
+MAP_HEIGHT = 1800
+
+# Colors
+COLOR_OCEAN = (41, 98, 155)
+COLOR_LAND = (139, 137, 112)
+COLOR_BORDER = (50, 50, 50)
+COLOR_SELECTED_PROVINCE = (255, 255, 0, 100)
+
+# UI Colors
+COLOR_UI_BACKGROUND = (30, 30, 30, 200)
+COLOR_UI_TEXT = (255, 255, 255)
+COLOR_UI_BORDER = (100, 100, 100)
